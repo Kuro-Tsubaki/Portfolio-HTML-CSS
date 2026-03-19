@@ -9,17 +9,19 @@
 }
 
 .navbar{
-	background: #901BAA;
+	background-color: green;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic ", "Arial Black", "sans-serif";
-	padding: 0px 15px 0px 15px;
 	margin-top: 15px;
 	
-		
+
 }
+
 ul.wheader{
 	background-color:yellow;
 	display: flex;
-	
+	list-style: none;
+}
+li.wheader{
 	
 }
 .navdiv{
