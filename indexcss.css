@@ -1,0 +1,52 @@
+@charset "utf-8";
+ 
+.bienvenue {
+	margin-top: 10px;
+	border-radius: 90% 10% / 10% 90%;
+	border: 5px solid #C09696;
+	background-color:#6E4242;
+	color:#F0EBEB;
+}
+
+.navbar{
+	background: #901BAA;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic ", "Arial Black", "sans-serif";
+	padding: 0px 15px 0px 15px;
+	margin-top: 15px;
+	
+		
+}
+ul.wheader{
+	background-color:yellow;
+	display: flex;
+	
+	
+}
+.navdiv{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-direction: row;
+	background-color:aqua;
+	
+}
+
+.logo a{
+	font-size: 35px;
+	color: white;
+}
+
+
+.circle {
+	color:#3B0E0E;
+	margin-top: 10px;
+	width: 150px;
+  	height: 150px;
+  	border-radius: 50%;
+	background-color: #B77B7C;
+	display: flex;  
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	
+}
